@@ -1,3 +1,5 @@
+![TodoApp](https://github.com/DevPikimon/React_Todo_App/assets/131951426/4dec881a-785a-473f-9f7a-e45288e976b5)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
